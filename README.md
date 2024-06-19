@@ -1,6 +1,6 @@
 # any-year-calendar
 
-![Alt Text](https://github.com/Skyler-Guha/skyler-guha.github.io/blob/main/assets/images/any-year-calendar-demo.gif)
+![Alt Text](any-year-calendar-demo.gif)
 
 - This is a Calendar utility program written in C programing language.
 - This program can show a calender for any date.
